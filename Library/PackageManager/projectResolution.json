@@ -1,0 +1,501 @@
+{
+  "context": {
+    "projectPath": "C:/NATHALIA_REPO/VR_practica/Packages",
+    "unityVersion": "6000.3.9f1"
+  },
+  "inputs": [
+    "C:\\NATHALIA_REPO\\VR_practica\\Packages\\manifest.json",
+    "C:\\NATHALIA_REPO\\VR_practica\\Packages\\packages-lock.json",
+    "C:\\Program Files\\Unity\\Hub\\Editor\\6000.3.9f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\BuiltInPackagesCombined.sha1"
+  ],
+  "outputs": {
+    "com.meta.xr.sdk.all@205.0.0": {
+      "name": "com.meta.xr.sdk.all",
+      "displayName": "Meta XR All-in-One SDK",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.meta.xr.sdk.all@eefa31febf37",
+      "fingerprint": "eefa31febf377c66b79e9a9df9abdc09eefc8070",
+      "editorCompatibility": "6000.0.66f2",
+      "version": "205.0.0",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.multiplayer.center@1.0.1": {
+      "name": "com.unity.multiplayer.center",
+      "displayName": "Multiplayer Center",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.multiplayer.center@f01f4ba8d00a",
+      "fingerprint": "f01f4ba8d00afa4e957bddf0fcd1612a564401ff",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "1.0.1",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.accessibility@1.0.0": {
+      "name": "com.unity.modules.accessibility",
+      "displayName": "Accessibility",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.modules.accessibility",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.adaptiveperformance@1.0.0": {
+      "name": "com.unity.modules.adaptiveperformance",
+      "displayName": "Adaptive Performance",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.modules.adaptiveperformance",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.ai@1.0.0": {
+      "name": "com.unity.modules.ai",
+      "displayName": "AI",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.modules.ai",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.androidjni@1.0.0": {
+      "name": "com.unity.modules.androidjni",
+      "displayName": "Android JNI",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.modules.androidjni",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.animation@1.0.0": {
+      "name": "com.unity.modules.animation",
+      "displayName": "Animation",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.modules.animation",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.assetbundle@1.0.0": {
+      "name": "com.unity.modules.assetbundle",
+      "displayName": "Asset Bundle",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.modules.assetbundle",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.audio@1.0.0": {
+      "name": "com.unity.modules.audio",
+      "displayName": "Audio",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.modules.audio",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.cloth@1.0.0": {
+      "name": "com.unity.modules.cloth",
+      "displayName": "Cloth",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.modules.cloth",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.director@1.0.0": {
+      "name": "com.unity.modules.director",
+      "displayName": "Director",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.modules.director",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.imageconversion@1.0.0": {
+      "name": "com.unity.modules.imageconversion",
+      "displayName": "Image Conversion",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.modules.imageconversion",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.imgui@1.0.0": {
+      "name": "com.unity.modules.imgui",
+      "displayName": "IMGUI",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.modules.imgui",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.jsonserialize@1.0.0": {
+      "name": "com.unity.modules.jsonserialize",
+      "displayName": "JSONSerialize",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.modules.jsonserialize",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.particlesystem@1.0.0": {
+      "name": "com.unity.modules.particlesystem",
+      "displayName": "Particle System",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.modules.particlesystem",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.physics@1.0.0": {
+      "name": "com.unity.modules.physics",
+      "displayName": "Physics",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.modules.physics",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.physics2d@1.0.0": {
+      "name": "com.unity.modules.physics2d",
+      "displayName": "Physics 2D",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.modules.physics2d",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.screencapture@1.0.0": {
+      "name": "com.unity.modules.screencapture",
+      "displayName": "Screen Capture",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.modules.screencapture",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.terrain@1.0.0": {
+      "name": "com.unity.modules.terrain",
+      "displayName": "Terrain",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.modules.terrain",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.terrainphysics@1.0.0": {
+      "name": "com.unity.modules.terrainphysics",
+      "displayName": "Terrain Physics",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.modules.terrainphysics",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.tilemap@1.0.0": {
+      "name": "com.unity.modules.tilemap",
+      "displayName": "Tilemap",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.modules.tilemap",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.ui@1.0.0": {
+      "name": "com.unity.modules.ui",
+      "displayName": "UI",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.modules.ui",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.uielements@1.0.0": {
+      "name": "com.unity.modules.uielements",
+      "displayName": "UIElements",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.modules.uielements",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.umbra@1.0.0": {
+      "name": "com.unity.modules.umbra",
+      "displayName": "Umbra",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.modules.umbra",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.unityanalytics@1.0.0": {
+      "name": "com.unity.modules.unityanalytics",
+      "displayName": "Unity Analytics",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.modules.unityanalytics",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.unitywebrequest@1.0.0": {
+      "name": "com.unity.modules.unitywebrequest",
+      "displayName": "Unity Web Request",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.modules.unitywebrequest",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.unitywebrequestassetbundle@1.0.0": {
+      "name": "com.unity.modules.unitywebrequestassetbundle",
+      "displayName": "Unity Web Request Asset Bundle",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.modules.unitywebrequestassetbundle",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.unitywebrequestaudio@1.0.0": {
+      "name": "com.unity.modules.unitywebrequestaudio",
+      "displayName": "Unity Web Request Audio",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.modules.unitywebrequestaudio",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.unitywebrequesttexture@1.0.0": {
+      "name": "com.unity.modules.unitywebrequesttexture",
+      "displayName": "Unity Web Request Texture",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.modules.unitywebrequesttexture",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.unitywebrequestwww@1.0.0": {
+      "name": "com.unity.modules.unitywebrequestwww",
+      "displayName": "Unity Web Request WWW",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.modules.unitywebrequestwww",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.vectorgraphics@1.0.0": {
+      "name": "com.unity.modules.vectorgraphics",
+      "displayName": "Vector Graphics",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.modules.vectorgraphics",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.vehicles@1.0.0": {
+      "name": "com.unity.modules.vehicles",
+      "displayName": "Vehicles",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.modules.vehicles",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.video@1.0.0": {
+      "name": "com.unity.modules.video",
+      "displayName": "Video",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.modules.video",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.vr@1.0.0": {
+      "name": "com.unity.modules.vr",
+      "displayName": "VR",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.modules.vr",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.wind@1.0.0": {
+      "name": "com.unity.modules.wind",
+      "displayName": "Wind",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.modules.wind",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.xr@1.0.0": {
+      "name": "com.unity.modules.xr",
+      "displayName": "XR",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.modules.xr",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.subsystems@1.0.0": {
+      "name": "com.unity.modules.subsystems",
+      "displayName": "Subsystems",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.modules.subsystems",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.hierarchycore@1.0.0": {
+      "name": "com.unity.modules.hierarchycore",
+      "displayName": "Hierarchy Core",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.modules.hierarchycore",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.meta.xr.sdk.core@205.0.0": {
+      "name": "com.meta.xr.sdk.core",
+      "displayName": "Meta XR Core SDK",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.meta.xr.sdk.core@c0efcbf2ba70",
+      "fingerprint": "c0efcbf2ba7073389408996e55bbf8c3fcc04485",
+      "editorCompatibility": "6000.0.66f2",
+      "version": "205.0.0",
+      "source": "registry",
+      "testable": false
+    },
+    "com.meta.xr.sdk.audio@85.0.0": {
+      "name": "com.meta.xr.sdk.audio",
+      "displayName": "Meta XR Audio SDK",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.meta.xr.sdk.audio@baafb66e77db",
+      "fingerprint": "baafb66e77db28ad9ed6579c7c1c1f8a5f1ec844",
+      "editorCompatibility": "2022.3.15f1",
+      "version": "85.0.0",
+      "source": "registry",
+      "testable": false
+    },
+    "com.meta.xr.sdk.voice@85.0.1": {
+      "name": "com.meta.xr.sdk.voice",
+      "displayName": "Meta - Voice SDK - Immersive Voice Commands",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.meta.xr.sdk.voice@856439ff2689",
+      "fingerprint": "856439ff26898b0412bc511c8939463658bbd9b3",
+      "editorCompatibility": "2022.3.15f1",
+      "version": "85.0.1",
+      "source": "registry",
+      "testable": false
+    },
+    "com.meta.xr.sdk.haptics@205.0.0": {
+      "name": "com.meta.xr.sdk.haptics",
+      "displayName": "Meta XR Haptics SDK",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.meta.xr.sdk.haptics@ca7512cf6c80",
+      "fingerprint": "ca7512cf6c805774cb1924ea4dbe8f4ae3f466b7",
+      "editorCompatibility": "6000.0.66f2",
+      "version": "205.0.0",
+      "source": "registry",
+      "testable": false
+    },
+    "com.meta.xr.mrutilitykit@205.0.0": {
+      "name": "com.meta.xr.mrutilitykit",
+      "displayName": "Meta MR Utility Kit",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.meta.xr.mrutilitykit@2979546e7179",
+      "fingerprint": "2979546e717905c3acdd7cf71231f1a26851db9d",
+      "editorCompatibility": "6000.0.66f2",
+      "version": "205.0.0",
+      "source": "registry",
+      "testable": false
+    },
+    "com.meta.xr.sdk.platform@205.0.0": {
+      "name": "com.meta.xr.sdk.platform",
+      "displayName": "Meta XR Platform SDK",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.meta.xr.sdk.platform@77232b66891b",
+      "fingerprint": "77232b66891b50074888f477d650814677e5d616",
+      "editorCompatibility": "6000.0.66f2",
+      "version": "205.0.0",
+      "source": "registry",
+      "testable": false
+    },
+    "com.meta.xr.sdk.interaction@205.0.0": {
+      "name": "com.meta.xr.sdk.interaction",
+      "displayName": "Meta XR Interaction SDK Essentials",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.meta.xr.sdk.interaction@b67d311217e9",
+      "fingerprint": "b67d311217e9d21eaad2a70d8f5bb409f4caf404",
+      "editorCompatibility": "2022.3.15f1",
+      "version": "205.0.0",
+      "source": "registry",
+      "testable": false
+    },
+    "com.meta.xr.sdk.interaction.ovr@205.0.0": {
+      "name": "com.meta.xr.sdk.interaction.ovr",
+      "displayName": "Meta XR Interaction ​SDK",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.meta.xr.sdk.interaction.ovr@84d9703a2ac2",
+      "fingerprint": "84d9703a2ac27816d3d9e6298d15d88890ccb971",
+      "editorCompatibility": "2022.3.15f1",
+      "version": "205.0.0",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.ugui@2.0.0": {
+      "name": "com.unity.ugui",
+      "displayName": "uGUI",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.ugui@bb329a87fcdc",
+      "fingerprint": "bb329a87fcdc5d55e815f3d804764d676674047e",
+      "editorCompatibility": "2019.2.0a1",
+      "version": "2.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.textmeshpro@5.0.0": {
+      "name": "com.unity.textmeshpro",
+      "displayName": "TextMeshPro",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.textmeshpro@53f43edfd2e0",
+      "fingerprint": "53f43edfd2e0bf2438ca6e2038ba12107a181253",
+      "editorCompatibility": "2023.2.0a1",
+      "version": "5.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.inputsystem@1.18.0": {
+      "name": "com.unity.inputsystem",
+      "displayName": "Input System",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.inputsystem@57d0e36f6123",
+      "fingerprint": "57d0e36f61231bc5a2579f37d81bf6fa02f40adc",
+      "editorCompatibility": "2022.3.0a1",
+      "version": "1.18.0",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.nuget.newtonsoft-json@3.2.2": {
+      "name": "com.unity.nuget.newtonsoft-json",
+      "displayName": "Newtonsoft Json",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.nuget.newtonsoft-json@4dfd81071c64",
+      "fingerprint": "4dfd81071c6475bb9c114f920bfb4e3fc5e28c6a",
+      "editorCompatibility": "2018.4.0a1",
+      "version": "3.2.2",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.ai.navigation@2.0.10": {
+      "name": "com.unity.ai.navigation",
+      "displayName": "AI Navigation",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.ai.navigation@c33a115e9883",
+      "fingerprint": "c33a115e988396e6eb96aa3a58e9fa0a937d08d5",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "2.0.10",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.xr.hands@1.7.3": {
+      "name": "com.unity.xr.hands",
+      "displayName": "XR Hands",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.xr.hands@3e241be20642",
+      "fingerprint": "3e241be2064283bf42e309918d6882bac2a52ba1",
+      "editorCompatibility": "2022.3.0a1",
+      "version": "1.7.3",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.mathematics@1.3.3": {
+      "name": "com.unity.mathematics",
+      "displayName": "Mathematics",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.mathematics@19a9377c4ffa",
+      "fingerprint": "19a9377c4ffa59370edad3e6a34e4445529badde",
+      "editorCompatibility": "2021.3.0a1",
+      "version": "1.3.3",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.xr.core-utils@2.5.3": {
+      "name": "com.unity.xr.core-utils",
+      "displayName": "XR Core Utilities",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.xr.core-utils@f0450cbac8d6",
+      "fingerprint": "f0450cbac8d66beb614cb1b4241eae977ee9990e",
+      "editorCompatibility": "2021.3.0f1",
+      "version": "2.5.3",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.xr.management@4.5.3": {
+      "name": "com.unity.xr.management",
+      "displayName": "XR Plugin Management",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.xr.management@574ebfb1e976",
+      "fingerprint": "574ebfb1e9766bb5f6bdb255c6abfb195b43f4cb",
+      "editorCompatibility": "2022.3.0a1",
+      "version": "4.5.3",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.xr.legacyinputhelpers@2.1.13": {
+      "name": "com.unity.xr.legacyinputhelpers",
+      "displayName": "XR Legacy Input Helpers",
+      "resolvedPath": "C:\\NATHALIA_REPO\\VR_practica\\Library\\PackageCache\\com.unity.xr.legacyinputhelpers@9535ff2c27ac",
+      "fingerprint": "9535ff2c27ac3e8dfb63877c36641a1cc1a48c14",
+      "editorCompatibility": "2019.4.0a1",
+      "version": "2.1.13",
+      "source": "registry",
+      "testable": false
+    }
+  }
+}
